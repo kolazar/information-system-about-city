@@ -1,17 +1,25 @@
-Information system about city
+#Information system "City administration"
 
-My course project with using GUI and can implement such functions:
+## About
 
-1.Updating and deleting objects.
+This project contain information about city administration, district administration, professions  and employees and can perform the following functions:
 
-2.Ability to change information for every object at whatever level.
+1.Creating and deleting professions and employees;
 
-3.Saving to and loading from file.
+2.The ability to edit information for any of the elements at any level;
 
-4.Ability to view information about individual ibject of tree.
+3.Save the file, play the file in the dynamic memory tree structure;
 
-5.Finding employees from pointed organization with the highest salary.
+4.Ability to view information about a single element of tree;
 
-6.Counting and showing common amount employees of each organization.
+5.Searching of employees with the highest salary;
 
-This information system was made in the Qt environment with using tree-like data structure.
+6.Output all count of employees;
+
+## Built With
+
+This information system was developed in the Qt environment by using a tree data structure.
+
+## Author
+
+Mykola Lazarenko, student of Chernihiv National University of Technology.
